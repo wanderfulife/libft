@@ -3,25 +3,15 @@
 /*                                                        :::      ::::::::   */
 /*   ft_printf.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-<<<<<<< HEAD
-/*   By: JWander <jowander@student.42.fr>           +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/06/27 20:34:39 by jowander          #+#    #+#             */
-/*   Updated: 2024/09/30 11:58:45 by JWander          ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
-#include "../includes/ft_printf.h"
-=======
 /*   By: JoWander <jowander@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/06/27 20:34:39 by JoWander          #+#    #+#             */
-/*   Updated: 2024/09/30 18:01:00 by JoWander         ###   ########.fr       */
+/*   Created: 2024/09/30 18:23:45 by JoWander          #+#    #+#             */
+/*   Updated: 2024/09/30 18:23:48 by JoWander         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+
 #include "../includes/libft.h"
->>>>>>> ebf0f94 (v1)
 
 int	ft_printf(const char *format, ...)
 {

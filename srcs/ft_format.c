@@ -3,25 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_format.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-<<<<<<< HEAD
-/*   By: JWander <jowander@student.42.fr>           +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/06/27 14:30:18 by jowander          #+#    #+#             */
-/*   Updated: 2024/09/30 11:55:43 by JWander          ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
-#include "../includes/ft_printf.h"
-=======
 /*   By: JoWander <jowander@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/06/27 14:30:18 by joWander          #+#    #+#             */
-/*   Updated: 2024/09/30 18:01:54 by JoWander         ###   ########.fr       */
+/*   Created: 2024/06/27 14:30:18 by jowander          #+#    #+#             */
+/*   Updated: 2024/09/30 18:22:17 by JoWander         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../includes/libft.h"
->>>>>>> ebf0f94 (v1)
 
 int	ft_print_hex(va_list *args, bool uppercase)
 {

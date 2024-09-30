@@ -3,25 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_string.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-<<<<<<< HEAD
-/*   By: JWander <jowander@student.42.fr>           +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/06/27 14:30:18 by jowander          #+#    #+#             */
-/*   Updated: 2024/09/30 11:57:45 by JWander          ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
-#include "../includes/ft_printf.h"
-=======
 /*   By: JoWander <jowander@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/06/27 14:30:18 by JoWander          #+#    #+#             */
-/*   Updated: 2024/09/30 18:00:05 by JoWander         ###   ########.fr       */
+/*   Created: 2024/09/30 18:24:54 by JoWander          #+#    #+#             */
+/*   Updated: 2024/09/30 18:24:56 by JoWander         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../includes/libft.h"
->>>>>>> ebf0f94 (v1)
 
 int	ft_print_char(va_list *args)
 {

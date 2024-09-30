@@ -3,17 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   libft.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-<<<<<<< HEAD
-/*   By: JWander <jowander@student.42.fr>           +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/09/30 12:10:00 by JWander           #+#    #+#             */
-/*   Updated: 2024/09/30 17:09:35 by JWander          ###   ########.fr       */
-=======
 /*   By: JoWander <jowander@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/09/30 12:10:00 by JoWander          #+#    #+#             */
+/*   Created: 2024/09/30 12:10:00 by JWander           #+#    #+#             */
+/*   Updated: 2024/09/30 18:20:46 by JoWander         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 /*   Updated: 2024/09/30 18:02:40 by JoWander         ###   ########.fr       */
->>>>>>> ebf0f94 (v1)
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,16 +19,13 @@
 
 # include <stdlib.h>
 # include <unistd.h>
-<<<<<<< HEAD
 
-=======
 # include <stdarg.h>
 # include <stdbool.h>
 # include <limits.h>
 # include <stdint.h>
 
 // Original libft functions
->>>>>>> ebf0f94 (v1)
 int		ft_isalnum(int c);
 int		ft_isalpha(int c);
 int		ft_isascii(int c);
@@ -66,13 +60,11 @@ void	ft_putchar_fd(char c, int fd);
 void	ft_putstr_fd(char *s, int fd);
 void	ft_putendl_fd(char *s, int fd); 
 void	ft_putnbr_fd(int n, int fd);
-<<<<<<< HEAD
 
 long	ft_atol(const char *str);
 
 char	*get_next_line(int fd);
 
-=======
 long	ft_atol(const char *str);
 char	*get_next_line(int fd);
 
@@ -90,5 +82,4 @@ int		ft_print_num_as_hex(unsigned long long num, bool uppercase);
 int		ft_print_hex_address(uintptr_t addr);
 int		ft_numlen(long long num);
 
->>>>>>> ebf0f94 (v1)
 #endif

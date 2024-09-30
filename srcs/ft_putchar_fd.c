@@ -3,19 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putchar_fd.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-<<<<<<< HEAD
-/*   By: Jowander <Jowander@student.42.fr>          +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/06/05 08:45:28 by jowander          #+#    #+#             */
-/*   Updated: 2024/06/05 10:13:08 by Jowander         ###   ########.fr       */
-=======
 /*   By: JoWander <jowander@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/06/05 08:45:28 by JoWander          #+#    #+#             */
-/*   Updated: 2024/09/30 18:00:55 by JoWander         ###   ########.fr       */
->>>>>>> ebf0f94 (v1)
+/*   Created: 2024/09/30 18:23:52 by JoWander          #+#    #+#             */
+/*   Updated: 2024/09/30 18:23:53 by JoWander         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "libft.h"
 
