@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_printf.h                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: JWander <jowander@student.42.fr>           +#+  +:+       +#+        */
+/*   By: JoWander <jowander@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/30 12:00:00 by jowander          #+#    #+#             */
-/*   Updated: 2024/09/30 11:58:40 by JWander          ###   ########.fr       */
+/*   Updated: 2024/10/03 16:50:46 by JoWander         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@
 # include <stdbool.h>
 # include <limits.h>
 # include "libft.h"
-# include <stdint.h>  // Add this line for uintptr_t
+# include <stdint.h>
 
 int		ft_printf(const char *format, ...);
 int		ft_handle_conversion(char type, va_list *args);
